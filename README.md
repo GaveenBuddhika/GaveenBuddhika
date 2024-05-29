@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gaveen Buddhika</h1>
 <h3 align="center">Passionate Software Engineering Undergraduate at the University of Kelaniya, Sri Lanka. Seeking to leverage technology to drive positive change and innovation. Currently gaining a strong foundation in programming, algorithms, and software development methodologies. Actively involved in extracurricular activities. Avid learner, tech enthusiast, and problem solver.</h3>
-
-<h3 align="center"><hr>Connect with me </hr></h3>
+<hr>
+<h3 align="center">Connect with me </h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/gaveen-buddhika-a41159257/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaveen buddhika" height="30" width="40" /></a>
 <a href="https://www.facebook.com/gaveen.buddhika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gaveen buddhika" height="30" width="40" /></a>
