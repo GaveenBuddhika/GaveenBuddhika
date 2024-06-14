@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gaveen Buddhika</h1>
-<h3 align="center">Passionate Software Engineering Undergraduate(3rd year) at the University of Kelaniya, Sri Lanka. Seeking to leverage technology to drive positive change and innovation. Currently gaining a strong foundation in programming, algorithms, and software development methodologies. Actively involved in extracurricular activities. Avid learner, tech enthusiast, and problem solver.</h3>
+<h3 align="center">Passionate Software Engineering Undergraduate(3rd year) at the University of Kelaniya, Sri Lanka. Seeking to leverage technology to drive positive change and innovation. Currently gaining a strong foundation in programming, algorithms, and software development methodologies. Actively involved in extracurricular activities. Avid learner, DevOps enthusiast, and problem solver.</h3>
 <hr>
 <h3 align="center">Connect With Me</h3>
 <p align="center">
