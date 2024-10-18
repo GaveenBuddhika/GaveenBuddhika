@@ -29,6 +29,7 @@
      <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>  
        <img src="https://www.svgrepo.com/show/303231/docker-logo.svg" alt="docker" width="40" height="40"/> 
     <img src="https://www.svgrepo.com/show/353443/aws.svg" alt="aws" width="40" height="40"/> 
+    <img src="https://www.svgrepo.com/show/376331/kubernetes.svg" alt="kubernetes" width="40" height="40"/> 
   <img src="https://www.svgrepo.com/show/303554/nginx-logo.svg" alt="nginx" width="40" height="40"/> </p>
 
 
