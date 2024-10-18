@@ -41,6 +41,6 @@
 
 
 <p></p>
-<p ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gaveenbuddhika&show_icons=true&locale=en&layout=compact" alt="gaveenbuddhika" />
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=gaveenbuddhika&show_icons=true&locale=en" alt="gaveenbuddhika" /></p>
+<p ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gaveenbuddhika&show_icons=true&locale=en&layout=compact" alt="gaveenbuddhika" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=gaveenbuddhika&show_icons=true&locale=en" alt="gaveenbuddhika" /></p>
 
