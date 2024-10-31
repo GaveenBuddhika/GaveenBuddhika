@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/gaveen-buddhika-a41159257/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaveen buddhika" height="30" width="40" /></a>
 <a href="https://www.facebook.com/gaveen.buddhika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gaveen buddhika" height="30" width="40" /></a>
 <a href="https://instagram.com/gaveen_199" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gaveen_199" height="30" width="40" /></a>
-<a href="https://www.behance.net/gaveenbuddhika199" target="blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/behance/behance-original.svg"
+<a href="https://www.behance.net/gaveenbuddhika199" target="blank"> <img align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/behance/behance-original.svg"
  alt="gaveenbuddhika" height="30" width="40" /></a>
 <a href="https://medium.com/@buddhikagaveen2021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gaveenbuddhika" height="30" width="40" /></a>
 </p> <p></p>
