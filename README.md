@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gaveen Buddhika</h1>
-<h3 align="center">Passionate Software Engineering Undergraduate(3rd year) at the University of Kelaniya, Sri Lanka. Seeking to leverage technology to drive positive change and innovation. Currently gaining a strong foundation in programming, algorithms, and software development methodologies. Actively involved in extracurricular activities. Avoid learner, DevOps enthusiast and problem solver.</h3>
+<h3 align="center">I am a passionate Final Year Software Engineering Undergraduate at the University of Kelaniya with expertise in Cloud Computing and DevOps. I have hands-on experience designing, deploying, and managing scalable infrastructure using AWS, Docker, Terraform, Kubernetes, and Jenkins, with a focus on automation, CI/CD, and security best practices. Alongside technical skills, I bring a creative perspective through graphic design and multimedia editing and have held leadership roles in community and university initiatives. I take ownership of projects end-to-end—from infrastructure design to deployment and monitoring—ensuring reliability, performance, and efficiency. I am eager to leverage technology to drive innovation, deliver tangible impact, and collaborate with like-minded professionals..</h3>
 <hr>
 <h3 align="center">Connect With Me</h3>
 <p align="center">
