@@ -24,8 +24,8 @@ Experienced in designing and deploying **cloud-native solutions** using AWS, wit
 
 ### Cloud & Infrastructure  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,terraform,linux" height="40" />  <br>
-  AWS · Terraform · Linux
+  <img src="https://skillicons.dev/icons?i=aws,terraform,linux,ansible" height="40" />  <br>
+  AWS · Terraform · Linux . Ansible
 </p>
 
 ### Containers & Orchestration  
@@ -42,8 +42,8 @@ Experienced in designing and deploying **cloud-native solutions** using AWS, wit
 
 ### Monitoring & Observability  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cloudwatch,elasticsearch" height="40" />  <br>
-  CloudWatch · ELK Stack
+  <img src="https://skillicons.dev/icons?i=cloudwatch,elasticsearch,grafana,prometheus,datadog" height="40" />  <br>
+  CloudWatch · ELK Stack . Grafana . Prometheus . Datadog
 </p>
 
 ### Programming & Scripting  
