@@ -30,37 +30,37 @@ Experienced in designing and deploying **cloud-native solutions** using AWS, wit
 
 ### Containers & Orchestration  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx" height="40" />  
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx" height="40" />  <br>
   Docker · Kubernetes · NGINX
 </p>
 
 ### CI/CD & GitOps  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=jenkins,githubactions,git,maven,sonarqube" height="40" />  
+  <img src="https://skillicons.dev/icons?i=jenkins,githubactions,git,maven,sonarqube" height="40" />  <br>
   Jenkins · GitHub Actions · Git · Maven · SonarQube
 </p>
 
 ### Monitoring & Observability  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cloudwatch,elasticsearch" height="40" />  
+  <img src="https://skillicons.dev/icons?i=cloudwatch,elasticsearch" height="40" />  <br>
   CloudWatch · ELK Stack
 </p>
 
 ### Programming & Scripting  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,bash,java,js,php" height="40" />  
+  <img src="https://skillicons.dev/icons?i=python,bash,java,js,php" height="40" />  <br>
   Python · Bash · Java · JavaScript · PHP
 </p>
 
 ### Databases  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" />  
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" />  <br>
   MySQL
 </p>
 
 ### Design & Tools  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,ps,ai,postman" height="40" />  
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai,postman" height="40" />  <br>
   Figma · Photoshop · Illustrator · Postman
 </p>
 
