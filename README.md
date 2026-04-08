@@ -1,61 +1,98 @@
-<h1 align="center">Hi 👋, I'm Gaveen Buddhika</h1>
-<h3 align="center">I am a passionate Final Year Software Engineering Undergraduate at the University of Kelaniya with expertise in Cloud Computing and DevOps. I have hands-on experience designing, deploying, and managing scalable infrastructure using AWS, Docker, Terraform, Kubernetes, and Jenkins, with a focus on automation, CI/CD, and security best practices. Alongside technical skills, I bring a creative perspective through graphic design and multimedia editing and have held leadership roles in community and university initiatives. I take ownership of projects end-to-end—from infrastructure design to deployment and monitoring - 
- ensuring reliability, performance, and efficiency. I am eager to leverage technology to drive innovation, deliver tangible impact, and collaborate with like-minded professionals..</h3>
-<hr>
-<h3 align="center">Connect With Me</h3>
+<!-- Animated Header -->
 <p align="center">
-<a href="https://www.linkedin.com/in/gaveen-buddhika-a41159257/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="gaveen buddhika" height="30" width="40" /></a>
-<a href="https://www.facebook.com/gaveen.buddhika" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" alt="gaveen buddhika" height="30" width="40" /></a>
-<a href="https://instagram.com/gaveen_199" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gaveen_199" height="30" width="40" /></a>
-<a href="https://www.behance.net/gaveenbuddhika199" target="blank"> <img align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/behance/behance-original.svg"
- alt="gaveenbuddhika" height="30" width="40" /></a>
-<a href="https://medium.com/@buddhikagaveen2021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gaveenbuddhika" height="30" width="40" /></a>
-</p> <p></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=200&section=header&text=Gaveen%20Buddhika&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
 
+<h3 align="center">DevOps Engineer | Cloud & Infrastructure Enthusiast</h3>
 
+---
 
+## 👋 About Me  
+I am a **Final Year Software Engineering Undergraduate at the University of Kelaniya**, passionate about **DevOps, Cloud Computing, and Infrastructure Automation**.
 
-<h3 align="center">Languages</h3>
-<p align="center"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  <img src="https://www.svgrepo.com/show/373535/css.svg" alt="css3" width="40" height="40"/> 
-  <img src="https://www.svgrepo.com/show/452228/html-5.svg" alt="html5" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-  <img src="https://www.svgrepo.com/show/353478/bash-icon.svg" alt="bash" width="40" height="40"/> 
-  <img src="https://www.svgrepo.com/show/452091/python.svg" alt="bash" width="40" height="40"/> </p>
+I specialize in building **scalable, secure, and production-ready cloud systems** using modern DevOps practices. My expertise includes **AWS, Docker, Terraform, Kubernetes, and CI/CD pipelines**, focusing on **automation, reliability, and performance**.
 
-<h3 align="center">Tools & Technologies</h3>
+I take ownership of projects end-to-end — from **architecture design → deployment → monitoring → optimization**.
+
+---
+
+## 🔗 Connect With Me  
+<p align="left">
+<a href="https://www.linkedin.com/in/gaveen-buddhika-a41159257/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
+<a href="https://github.com/GaveenBuddhika" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" height="40" /></a>
+<a href="mailto:buddhikagaveen2021@gmail.com"><img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
+</p>
+
+---
+
+## 🚀 Tech Stack  
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="40" height="40"/> 
-  <img src="https://www.svgrepo.com/show/376331/kubernetes.svg" alt="kubernetes" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" alt="nginx" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/303554/nginx-logo.svg" alt="nginx" width="40" height="40"/> 
-  
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,linux,nginx,mysql,git,github,python,bash,java,js,php,figma,ps,ai" />
+</p>
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GaveenBuddhika&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GaveenBuddhika&theme=tokyonight" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-  </p>   
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaveenBuddhika&layout=compact&theme=tokyonight" height="160"/>
+</p>
 
+---
 
-  <p align="center">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/> 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" alt="illustrator" width="40" height="40"/> 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" alt="photoshop" width="40" height="40"/> 
-  </p>
+## ⚡ Core Focus Areas  
+- Cloud Infrastructure & Architecture (AWS)  
+- Infrastructure as Code (Terraform)  
+- CI/CD Pipeline Design & Automation  
+- Containerization & Orchestration  
+- Monitoring & Observability  
+- DevOps Security Best Practices  
 
-<p></p>
-<p align ="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gaveenbuddhika&show_icons=true&locale=en&layout=compact" alt="gaveenbuddhika" /></p>
-<p  align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gaveenbuddhika&show_icons=true&locale=en" alt="gaveenbuddhika" /></p>
-<p align="center"><img align="center" src ="https://streak-stats.demolab.com/?user=GaveenBuddhika&theme=default"/> </p>
+---
 
+## 📌 Featured Projects  
+
+🔹 **Terraform-Based EC2 Deployment**  
+Automated AWS infrastructure provisioning with modular Terraform and CI/CD  
+
+🔹 **Dockerized NGINX Deployment on AWS**  
+Containerized web server with secure IAM role integration using ECR  
+
+🔹 **Jenkins CI Pipeline with Docker & SonarQube**  
+CI pipeline with build, testing, and containerization  
+
+🔹 **Flask App Deployment using Terraform**  
+End-to-end automated cloud deployment  
+
+---
+
+## 📈 Current Focus  
+- Kubernetes & advanced orchestration  
+- Cloud architecture best practices  
+- Monitoring & logging systems  
+- DevOps security & cost optimization  
+
+---
+
+## 🤝 Open To  
+- DevOps / Cloud Engineering Roles  
+- Internships & Entry-Level Opportunities  
+- Open Source Collaboration  
+
+---
+
+## 📍 Location  
+Sri Lanka 🇱🇰  
+
+---
+
+<!-- Footer Wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0ea5e9&height=120&section=footer"/>
+</p>
