@@ -41,12 +41,14 @@ Experienced in designing and deploying **cloud-native solutions** using AWS, wit
 </p>
 
 ---
-
+ 
 ## Current Work  
-- Building and deploying **cloud-native infrastructure on AWS**  
-- Working on **Terraform-based infrastructure automation projects**  
-- Designing and optimizing **CI/CD pipelines using Jenkins & GitHub Actions**  
-- Exploring **Kubernetes and advanced container orchestration patterns**  
+- Designing and deploying **AWS-based cloud infrastructure** with security and scalability in mind  
+- Implementing **Terraform modules** for automated provisioning of EC2, VPC, S3, and networking resources  
+- Building and maintaining **CI/CD pipelines** using Jenkins and GitHub Actions for automated testing, building, and deployment  
+- Containerizing applications with **Docker** and orchestrating workloads using **Kubernetes**  
+- Monitoring cloud infrastructure with **CloudWatch** and ensuring observability of applications  
+- Exploring advanced **infrastructure automation, cost optimization, and DevOps best practices**
 
 ---
 
