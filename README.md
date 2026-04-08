@@ -36,8 +36,8 @@ Experienced in designing and deploying **cloud-native solutions** using AWS, wit
 
 ### CI/CD & GitOps  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=jenkins,githubactions,git,maven,sonarqube" height="40" />  <br>
-  Jenkins · GitHub Actions · Git · Maven · SonarQube
+  <img src="https://skillicons.dev/icons?i=jenkins,githubactions,git,maven,sonarqube,helm,argocd" height="40" />  <br>
+  Jenkins · GitHub Actions · Git · Maven · SonarQube . Helm . Argocd
 </p>
 
 ### Monitoring & Observability  
