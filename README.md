@@ -24,7 +24,7 @@ Experienced in designing and deploying **cloud-native solutions** using AWS, wit
 
 ### Cloud & Infrastructure  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,terraform,linux" height="40" />  
+  <img src="https://skillicons.dev/icons?i=aws,terraform,linux" height="40" />  <br>
   AWS · Terraform · Linux
 </p>
 
