@@ -22,22 +22,46 @@ Experienced in designing and deploying **cloud-native solutions** using AWS, wit
 
 ## Technical Expertise  
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws" height="40" title="AWS"/>
-  <img src="https://skillicons.dev/icons?i=terraform" height="40" title="Terraform"/>
-  <img src="https://skillicons.dev/icons?i=linux" height="40" title="Linux"/>
-  <img src="https://skillicons.dev/icons?i=docker" height="40" title="Docker"/>
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" title="Kubernetes"/>
-  <img src="https://skillicons.dev/icons?i=nginx" height="40" title="NGINX"/>
-  <img src="https://skillicons.dev/icons?i=jenkins" height="40" title="Jenkins"/>
-  <img src="https://skillicons.dev/icons?i=githubactions,git" height="40" title="GitHub Actions & Git"/>
-  <img src="https://skillicons.dev/icons?i=maven" height="40" title="Maven"/>
-  <img src="https://skillicons.dev/icons?i=sonarqube" height="40" title="SonarQube"/>
-  <img src="https://skillicons.dev/icons?i=cloudwatch" height="40" title="CloudWatch"/>
-  <img src="https://skillicons.dev/icons?i=elasticsearch" height="40" title="ELK"/>
-  <img src="https://skillicons.dev/icons?i=python,bash,java,js,php" height="40" title="Python/Bash/Java/JS/PHP"/>
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" title="MySQL"/>
-  <img src="https://skillicons.dev/icons?i=figma,ps,ai,postman" height="40" title="Figma/Photoshop/Illustrator/Postman"/>
+### Cloud & Infrastructure  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,terraform,linux" height="40" />  
+  AWS · Terraform · Linux
+</p>
+
+### Containers & Orchestration  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx" height="40" />  
+  Docker · Kubernetes · NGINX
+</p>
+
+### CI/CD & GitOps  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=jenkins,githubactions,git,maven,sonarqube" height="40" />  
+  Jenkins · GitHub Actions · Git · Maven · SonarQube
+</p>
+
+### Monitoring & Observability  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cloudwatch,elasticsearch" height="40" />  
+  CloudWatch · ELK Stack
+</p>
+
+### Programming & Scripting  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,bash,java,js,php" height="40" />  
+  Python · Bash · Java · JavaScript · PHP
+</p>
+
+### Databases  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" />  
+  MySQL
+</p>
+
+### Design & Tools  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai,postman" height="40" />  
+  Figma · Photoshop · Illustrator · Postman
 </p>
 
 ---
