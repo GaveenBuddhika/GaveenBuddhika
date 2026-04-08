@@ -1,98 +1,69 @@
-<!-- Animated Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=200&section=header&text=Gaveen%20Buddhika&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-</p>
-
-<h3 align="center">EX-DevOps Engineer-Intern@SyscoLABS |Cloud Engineer@Millennium IT ESP | Cloud & Infrastructure Enthusiast</h3>
+# Gaveen Buddhika  
+### DevOps Engineer · Software Engineering Undergraduate · Cloud & Infrastructure Enthusiast  
 
 ---
 
-## 👋 About Me  
-I am a **Final Year Software Engineering Undergraduate at the University of Kelaniya**, passionate about **DevOps, Cloud Computing, and Infrastructure Automation**.
+## About  
+DevOps enthusiast specializing in **cloud infrastructure automation and scalable system design**. Currently completing my final year in Software Engineering at the University of Kelaniya while building hands-on experience in real-world DevOps practices.
 
-I specialize in building **scalable, secure, and production-ready cloud systems** using modern DevOps practices. My expertise includes **AWS, Docker, Terraform, Kubernetes, and CI/CD pipelines**, focusing on **automation, reliability, and performance**.
-
-I take ownership of projects end-to-end — from **architecture design → deployment → monitoring → optimization**.
+Experienced in designing and deploying **cloud-native solutions** using AWS, with a strong focus on **automation, CI/CD pipelines, and infrastructure as code**. Passionate about improving system reliability, performance, and efficiency through modern DevOps methodologies.
 
 ---
 
-## 🔗 Connect With Me  
-<p align="left">
-<a href="https://www.linkedin.com/in/gaveen-buddhika-a41159257/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
-<a href="https://github.com/GaveenBuddhika" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" height="40" /></a>
-<a href="mailto:buddhikagaveen2021@gmail.com"><img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
-</p>
-
----
-
-## 🚀 Tech Stack  
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,linux,nginx,mysql,git,github,python,bash,java,js,php,figma,ps,ai" />
-</p>
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GaveenBuddhika&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GaveenBuddhika&theme=tokyonight" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaveenBuddhika&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
----
-
-## ⚡ Core Focus Areas  
+## Core Focus Areas  
 - Cloud Infrastructure & Architecture (AWS)  
-- Infrastructure as Code (Terraform)  
-- CI/CD Pipeline Design & Automation  
+- Infrastructure as Code & Automation (Terraform)  
+- CI/CD Pipeline Design & Optimization  
 - Containerization & Orchestration  
 - Monitoring & Observability  
 - DevOps Security Best Practices  
 
 ---
 
-## 📌 Featured Projects  
+## Technical Expertise  
 
-🔹 **Terraform-Based EC2 Deployment**  
-Automated AWS infrastructure provisioning with modular Terraform and CI/CD  
-
-🔹 **Dockerized NGINX Deployment on AWS**  
-Containerized web server with secure IAM role integration using ECR  
-
-🔹 **Jenkins CI Pipeline with Docker & SonarQube**  
-CI pipeline with build, testing, and containerization  
-
-🔹 **Flask App Deployment using Terraform**  
-End-to-end automated cloud deployment  
-
----
-
-## 📈 Current Focus  
-- Kubernetes & advanced orchestration  
-- Cloud architecture best practices  
-- Monitoring & logging systems  
-- DevOps security & cost optimization  
-
----
-
-## 🤝 Open To  
-- DevOps / Cloud Engineering Roles  
-- Internships & Entry-Level Opportunities  
-- Open Source Collaboration  
-
----
-
-## 📍 Location  
-Sri Lanka 🇱🇰  
-
----
-
-<!-- Footer Wave -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0ea5e9&height=120&section=footer"/>
+  <img src="https://skillicons.dev/icons?i=aws" height="40" title="AWS"/>
+  <img src="https://skillicons.dev/icons?i=terraform" height="40" title="Terraform"/>
+  <img src="https://skillicons.dev/icons?i=linux" height="40" title="Linux"/>
+  <img src="https://skillicons.dev/icons?i=docker" height="40" title="Docker"/>
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" title="Kubernetes"/>
+  <img src="https://skillicons.dev/icons?i=nginx" height="40" title="NGINX"/>
+  <img src="https://skillicons.dev/icons?i=jenkins" height="40" title="Jenkins"/>
+  <img src="https://skillicons.dev/icons?i=githubactions,git" height="40" title="GitHub Actions & Git"/>
+  <img src="https://skillicons.dev/icons?i=maven" height="40" title="Maven"/>
+  <img src="https://skillicons.dev/icons?i=sonarqube" height="40" title="SonarQube"/>
+  <img src="https://skillicons.dev/icons?i=cloudwatch" height="40" title="CloudWatch"/>
+  <img src="https://skillicons.dev/icons?i=elasticsearch" height="40" title="ELK"/>
+  <img src="https://skillicons.dev/icons?i=python,bash,java,js,php" height="40" title="Python/Bash/Java/JS/PHP"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" title="MySQL"/>
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai,postman" height="40" title="Figma/Photoshop/Illustrator/Postman"/>
 </p>
+
+---
+
+## Current Work  
+- Building and deploying **cloud-native infrastructure on AWS**  
+- Working on **Terraform-based infrastructure automation projects**  
+- Designing and optimizing **CI/CD pipelines using Jenkins & GitHub Actions**  
+- Exploring **Kubernetes and advanced container orchestration patterns**  
+
+---
+
+## Projects  
+- **Terraform-Based EC2 Deployment** – Automated AWS infrastructure provisioning with modular Terraform  
+- **Dockerized NGINX Deployment** – Containerized application deployment with AWS ECR integration  
+- **Jenkins CI Pipeline** – CI pipeline with build, testing, and Docker image deployment  
+- **Flask App Deployment using Terraform** – End-to-end automated cloud deployment  
+
+---
+
+## Connect  
+- LinkedIn: https://www.linkedin.com/in/gaveen-buddhika-a41159257/  
+- GitHub: https://github.com/GaveenBuddhika  
+- Email: buddhikagaveen2021@gmail.com  
+
+---
+
+## Location  
+Sri Lanka 🇱🇰  
