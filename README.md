@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=200&section=header&text=Gaveen%20Buddhika&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
-<h3 align="center">DevOps Engineer | Cloud & Infrastructure Enthusiast</h3>
+<h3 align="center">|EX-DevOps Engineer-Intern@SyscoLABS |Cloud Engineer@Millennium IT ESP | Cloud & Infrastructure Enthusiast</h3>
 
 ---
 
